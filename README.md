@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey y'all it's Aria 👋
 
 <!--
 **Parksojeongjeong/Parksojeongjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
